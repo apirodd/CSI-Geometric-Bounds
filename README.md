@@ -1,4 +1,3 @@
-# CSI-Geometric-Bounds
 # CSI Geometric Information Bounds
 
 This repository contains the Python implementation used in the paper:
